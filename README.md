@@ -7,4 +7,5 @@ First, ODrive must be set up so that it can be used immediately.
 
 ## Validation Environment
     ubuntu 20.4
-    python3.x
+    python 3.x
+    ODrive v0.5.1 (v3.6 - 56v)
